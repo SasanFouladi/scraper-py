@@ -15,10 +15,9 @@ dataFile.close()
 # Replace the url for your desired website
 url = "https://ais.usvisa-info.com/en-ir?visa_type=niv"
 receiver_mails = [
-    # "ehsan.foolady@gmail.com",
-    # "mehrdadzomorodiyan@gmail.com",
-    # "babaktaheri77@gmail.com",
-    "fouladi.sasan@yahoo.com"
+    "ehsan.foolady@gmail.com",
+    "mehrdadzomorodiyan@gmail.com",
+    "babaktaheri77@gmail.com"
 ]
 
 
