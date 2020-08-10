@@ -1,5 +1,6 @@
-datetime==*
-email==*
-selenium==*
-bs4==*
-simplejson==*
+datetime==4.3
+email==18.1
+selenium==4.0
+bs4==4.9.0
+simplejson==3.17.2
+smtplib==*
