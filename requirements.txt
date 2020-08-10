@@ -1,4 +1,4 @@
-smtplib==21.17
+smtplib==2.6
 datetime==7.1
 email==18.1
 selenium==4.0
