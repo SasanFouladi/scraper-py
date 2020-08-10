@@ -1,6 +1,5 @@
-smtplib==*.*
-datetime==*.*
-email==*.*
-selenium==*.*
-bs4==*.*
-simplejson==*.*
+datetime==*
+email==*
+selenium==*
+bs4==*
+simplejson==*
