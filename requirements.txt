@@ -1,9 +1,6 @@
-smtplib
-time
-array
-datetime
-email.mime.text
-selenium
-email.mime.multipart
-bs4
-simplejson
+smtplib==3.8.5
+datetime==7.1
+email==18.1
+selenium==4.0
+bs4==4.9.0
+simplejson==3.17.2
