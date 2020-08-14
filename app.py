@@ -6,5 +6,5 @@ app = Flask(__name__)
 
 
 @app.route('/')
-def run():
+def app():
     return 'hi sasan'
