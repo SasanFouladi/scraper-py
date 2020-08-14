@@ -2,4 +2,3 @@ flask
 selenium
 bs4
 simplejson
-email
