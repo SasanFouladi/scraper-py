@@ -1,1 +1,1 @@
-web: gunicorn run:scrap
+web: gunicorn run:run
