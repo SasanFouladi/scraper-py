@@ -7,7 +7,7 @@ from selenium import webdriver
 from email.mime.multipart import MIMEMultipart
 from bs4 import BeautifulSoup
 import simplejson as json
-from run import Flask
+from app import Flask
 
 dataFile = open("data.json", "r+")
 data = json.loads(dataFile.read())
