@@ -5,5 +5,5 @@ import main
 app = Flask(__name__)
 
 
-def scrap():
+def hello():
     return 'hi sasan'
